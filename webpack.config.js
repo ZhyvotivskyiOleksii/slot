@@ -12,7 +12,7 @@ module.exports = {
       directory: path.join(__dirname, 'slot-machine-project/frontend/public'),
     },
     compress: true,
-    port: 8080,
+    port: 8089,
   },
   module: {
     rules: [
