@@ -13,7 +13,7 @@ module.exports = {
       directory: path.resolve(__dirname, 'slot-machine-project/frontend/public'),
     },
     compress: true,
-    port: 8086,
+    port: 8087,
     open: true,
   },
   plugins: [
